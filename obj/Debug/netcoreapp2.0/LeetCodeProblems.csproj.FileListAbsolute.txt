@@ -1,0 +1,11 @@
+c:\users\ethiril\source\repos\LeetCodeProblems\LeetCodeProblems\bin\Debug\netcoreapp2.0\LeetCodeProblems.deps.json
+c:\users\ethiril\source\repos\LeetCodeProblems\LeetCodeProblems\bin\Debug\netcoreapp2.0\LeetCodeProblems.runtimeconfig.json
+c:\users\ethiril\source\repos\LeetCodeProblems\LeetCodeProblems\bin\Debug\netcoreapp2.0\LeetCodeProblems.runtimeconfig.dev.json
+c:\users\ethiril\source\repos\LeetCodeProblems\LeetCodeProblems\bin\Debug\netcoreapp2.0\LeetCodeProblems.dll
+c:\users\ethiril\source\repos\LeetCodeProblems\LeetCodeProblems\bin\Debug\netcoreapp2.0\LeetCodeProblems.pdb
+c:\users\ethiril\source\repos\LeetCodeProblems\LeetCodeProblems\obj\Debug\netcoreapp2.0\LeetCodeProblems.csprojResolveAssemblyReference.cache
+c:\users\ethiril\source\repos\LeetCodeProblems\LeetCodeProblems\obj\Debug\netcoreapp2.0\LeetCodeProblems.csproj.CoreCompileInputs.cache
+c:\users\ethiril\source\repos\LeetCodeProblems\LeetCodeProblems\obj\Debug\netcoreapp2.0\LeetCodeProblems.AssemblyInfoInputs.cache
+c:\users\ethiril\source\repos\LeetCodeProblems\LeetCodeProblems\obj\Debug\netcoreapp2.0\LeetCodeProblems.AssemblyInfo.cs
+c:\users\ethiril\source\repos\LeetCodeProblems\LeetCodeProblems\obj\Debug\netcoreapp2.0\LeetCodeProblems.dll
+c:\users\ethiril\source\repos\LeetCodeProblems\LeetCodeProblems\obj\Debug\netcoreapp2.0\LeetCodeProblems.pdb
